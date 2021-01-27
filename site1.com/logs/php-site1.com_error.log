@@ -1,0 +1,12 @@
+[27-Jan-2021 06:42:09 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to undefined function hpinfo() in /var/www/site1.com/html/info3.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/site1.com/html/info3.php on line 2
+[27-Jan-2021 06:42:10 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to undefined function hpinfo() in /var/www/site1.com/html/info3.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/site1.com/html/info3.php on line 2
+[27-Jan-2021 06:43:13 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Call to undefined function hpinfo() in /var/www/site1.com/html/info3.php:2
+Stack trace:
+#0 {main}
+  thrown in /var/www/site1.com/html/info3.php on line 2
