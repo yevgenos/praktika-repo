@@ -8,6 +8,7 @@ pipeline {
 		
 				steps {
 					echo "building application"
+					sh "mkdir -p /backup/test-1-folder"
 				}
 			}
 
@@ -26,5 +27,7 @@ pipeline {
                         }
 
 		}
+
+
 
 }
